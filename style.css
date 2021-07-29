@@ -1,0 +1,68 @@
+body {
+    background: gainsboro;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.header_div {
+background: white;
+color: "#ce2700";
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div{
+background-color: blue;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid greenyellow;
+}
+
+.main_div label{
+    background: lightcoral;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 18px darkred;
+}
+
+#camera,#result{
+    border: 3px solid greenyellow;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px darkred;
+}
+
+.main_div button{
+    border: 3px solid greenyellow;
+    width: 310px;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px darkred;
+}
+
+.copy_right_footer{
+position: fixed;
+color: firebrick;
+background-color: goldenrod;
+text-align: center;
+width: 100%;
+line-height: 3;
+bottom: 0;
+}
+
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px darkred;
+}
+
+.footer_div img{
+    width: 70px;
+}
